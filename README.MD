@@ -1,7 +1,7 @@
 # Reading List of Homophily (Assortative) in GNNs
 Homophily is an important staticticis for network estimation, which indicates the consistency of labeling information and structural information (e.g., 1-hop neighborhood, adjacency matrix). On the contrary, heterophily is to depict the disconsistency of those information. Besides, assortative and disassortative are the synonyms for homophily and heterophily. 
 
-Originally, the idea of homophily is derived from social network, with strongly grounded explanation that similar people are more likely to make connections. [Video of homophily in social network](href="https://www.youtube.com/watch?v=x5d8FPpcSdI")
+Originally, the idea of homophily is derived from social network, with strongly grounded explanation that similar people are more likely to make connections. [This is a video of homophily in social network.](https://www.youtube.com/watch?v=x5d8FPpcSdI)
 
 In recent years, the idea of homophily began to be explored in graph neural networks. It is a good point that more and more attention has been paid into the ralationships of the attributes of the networks themselves and the propagation mechanisms. Usually, homophily is taken as a prior assumption as the success of GNNs, demonstrated by the impressive performance on citation networks (e.g., cora, citeseer and pubmed) with high homophily. In the other hand, benchmarks with high heterophily are causing enmergerging interest to evaluate the effectiveness of a GNN model more comprehensively. 
 
