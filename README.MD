@@ -5,7 +5,7 @@ Originally, the idea of homophily is derived from social network, with strongly 
 
 In recent years, the idea of homophily began to be explored in graph neural networks. It is a good point that more and more attention has been paid into the ralationships of the attributes of the networks themselves and the propagation mechanisms. Usually, homophily is taken as a prior assumption as the success of GNNs, demonstrated by the impressive performance on citation networks (e.g., cora, citeseer and pubmed) with high homophily. In the other hand, benchmarks with high heterophily are causing enmergerging interest to evaluate the effectiveness of a GNN model more comprehensively. 
 
-To sum up, this repository is made to provide a *reading list of relative conference papers about homophily (heterophily) in GNNs*, where **two tracks** are separated: 
+To sum up, this repository is made to provide a *reading list of relative (basically) conference papers about homophily (heterophily) in GNNs*, where **two tracks** are separated: 
 - &#10004; Modeling improvements 
 - &#10008; Analysis and discussions 
   
