@@ -11,10 +11,10 @@ To sum up, this repository is made to provide a *reading list of relative (basic
   
 | Title | Year | Conference | Descriptions | Type |
 | :---- | :--: | :--------: | :---         | :--: |
-| [Graph Neural Networks with Heterophily](href="https://arxiv.org/abs/2009.13566") | 2021 | AAAI | Propose a model called CPGNN that utilizes compatibility matrix to filter the signal from the compatible classes in every propagation step. | &#10004; |
-| [Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs](href="https://arxiv.org/abs/2006.11468") | 2020 | NeurIPS | Propose H2GCN to flatten and maintain all the information that a network could provide. Three operations are adopted: ego- and neighbor- embedding seperation, higher-order neighborhoods and combination of intermediate representations. | &#10004; |
-| [Is Homophily a Necessity for Graph Neural Networks?](href="https://arxiv.org/abs/2106.06134") | 2021 | Arxiv | Designing experiments to indicate that homophily is not important to GNNs, and with fine-grid hyperparameters turning, GCN works well on heterophily datasets. | &#10008; |
-| [Non-Local Graph Neural Networks](href="https://arxiv.org/abs/2005.14612") | 2020 | Arxiv | Targeting at disassortive graph, it designs various non-local aggregation in GNN. | &#10004; |
+| [Graph Neural Networks with Heterophily](https://arxiv.org/abs/2009.13566) | 2021 | AAAI | Propose a model called CPGNN that utilizes compatibility matrix to filter the signal from the compatible classes in every propagation step. | &#10004; |
+| [Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs](https://arxiv.org/abs/2006.11468) | 2020 | NeurIPS | Propose H2GCN to flatten and maintain all the information that a network could provide. Three operations are adopted: ego- and neighbor- embedding seperation, higher-order neighborhoods and combination of intermediate representations. | &#10004; |
+| [Is Homophily a Necessity for Graph Neural Networks?](https://arxiv.org/abs/2106.06134) | 2021 | Arxiv | Designing experiments to indicate that homophily is not important to GNNs, and with fine-grid hyperparameters turning, GCN works well on heterophily datasets. | &#10008; |
+| [Non-Local Graph Neural Networks](https://arxiv.org/abs/2005.14612) | 2020 | Arxiv | Targeting at disassortive graph, it designs various non-local aggregation in GNN. | &#10004; |
 
 # TODO
 Summary of benchmarks
